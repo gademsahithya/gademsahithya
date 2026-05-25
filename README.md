@@ -1,21 +1,10 @@
 # Hi, I'm Sahithya 👋
 
-### Building modern applications with AI and code.
-
----
-
 ## 💫 About Me
 🔭 Building Generative AI and web applications  
 🌱 Learning Full Stack Development and LLM-based applications  
 💻 Skilled in Python, JavaScript, HTML, CSS, and Bootstrap  
 🚀 Exploring AI integrations and real-world applications  
-
----
-
-## 🚀 Featured Projects
-🤖 RoleChat-AI — AI-powered role-based chatbot using LLaMA 3.1  
-🎬 MovieMind-AI — AI-based movie analysis application  
-📺 YouTube Clone — Responsive YouTube UI built with HTML & CSS  
 
 ---
 
