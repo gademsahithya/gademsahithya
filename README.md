@@ -1,10 +1,10 @@
 # Hi, I'm Sahithya 👋
 
 ## 💫 About Me
-🔭 Building Generative AI and web applications  
-🌱 Learning Full Stack Development and LLM-based applications  
-💻 Skilled in Python, JavaScript, HTML, CSS, and Bootstrap  
-🚀 Exploring AI integrations and real-world applications  
+🔭 Building Machine Learning, Deep Learning, and Generative AI applications
+🌱 Learning ML, DL, LLMs, RAG, AI Agents, and AI Engineering
+💻 Skilled in Python, Java, JavaScript, HTML, CSS, and Bootstrap
+🚀 Strengthening DSA while building practical AI and real-world applications 
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahithyagadem)
