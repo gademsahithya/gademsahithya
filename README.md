@@ -4,7 +4,7 @@
 🔭 Building Machine Learning, Deep Learning, and Generative AI applications
 🌱 Learning ML, DL, LLMs, RAG, AI Agents, and AI Engineering
 💻 Skilled in Python, Java, JavaScript, HTML, CSS, and Bootstrap
-🚀 Strengthening DSA while building practical AI and real-world applications 
+🚀 Strengthening DSA while building practical AI solutions and real-world applications
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahithyagadem)
